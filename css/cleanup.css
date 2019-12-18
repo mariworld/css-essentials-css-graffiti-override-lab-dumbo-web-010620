@@ -33,19 +33,7 @@ div#wall div.parent div#tag-5.slick {
   display: none;
 }
 
-#wall div.parent div:last-child div#tag-6 {
-  background: url(../images/tag-6.png) no-repeat;
-  z-index: 2;
-  display: none;
-}
-
-#wall div.parent div > #tag-7.slick {
-  background: url(../images/tag-7.png) no-repeat;
-  z-index: 1;
-  display: none;
-}
-
-#wall div.parent div#tag-6 {
+#wall div.parent div div#tag-6 {
   background: url(../images/tag-6.png) no-repeat;
   z-index: 2;
   display: none;
